@@ -27,9 +27,10 @@ TBA
 The model has been officially released with the article: [Giarelis, N., Mastrokostas, C., & Karacapilidis, N. (2024). Greek Wikipedia: A Study on Abstractive Summarization]().  
 If you use the proposed dataset or models, please cite the following:
 
+```
 TBA
 ```
-```
+
 ## Contributors
 * Nikolaos Giarelis (giarelis@ceid.upatras.gr)
 * Charalampos Mastrokostas (cmastrokostas@ac.upatras.gr)
